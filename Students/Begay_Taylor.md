@@ -1,10 +1,10 @@
-Title
+Title: Sedra/Smith Microelectronics Circuits
 
-Venue
+Venue:
 
-Number of Pages
+Number of Pages: 1395
 
-3 Outcomes of the Paper
+3 Outcomes of the Paper: V = IR; voltage, current, resistance
 
-Link to the Paper Online
+Link to the Paper Online: http://fuuu.be/polytech/ELECH402/Microelectronic%20Circuits%20by%20Sedra%20Smith,5th%20edition.pdf
 
