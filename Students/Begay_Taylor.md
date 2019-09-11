@@ -1,6 +1,6 @@
-Title: Sedra/Smith Microelectronics Circuits
+Title: Microelectronics Circuits
 
-Venue:
+Venue: Sedra/Smith
 
 Number of Pages: 1395
 
