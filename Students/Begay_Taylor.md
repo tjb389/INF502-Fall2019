@@ -1,4 +1,4 @@
-:zap:
+:zap: :zap: :zap: :zap: :zap: :zap: :zap:
 
 Title: Microelectronics Circuits
 
