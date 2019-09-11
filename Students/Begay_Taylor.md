@@ -1,3 +1,5 @@
+:zap:
+
 Title: Microelectronics Circuits
 
 Venue: Sedra/Smith
